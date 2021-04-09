@@ -1,0 +1,18 @@
+name: ghiblibot
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  ghiblibot:
+    main: src/ghiblibot.cr
+
+dependencies:
+  mastodon:
+    github: repomaa/mastodon.cr
+    branch: master
+
+crystal: 0.35.1
+
+license: MIT

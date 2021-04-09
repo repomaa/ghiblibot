@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  mastodon:
+    git: https://github.com/repomaa/mastodon.cr.git
+    version: 0.1.2+git.commit.04f92d1748345d6d9b8289e67ffcf4f635e9807d
+
